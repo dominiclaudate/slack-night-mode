@@ -1982,4 +1982,7 @@
   .para_menu .options a.active span { filter: grayscale(2) brightness(2); }
   .para_menu .options a span { filter: grayscale(2) brightness(5); }
   .para_menu a.trigger.pilcrow { filter: grayscale(2) brightness(1.8); }
-  .para_menu a.trigger.pilcrow:hover, .para_menu a.trigger.pilcrow.active { filter: grayscale(2) brightness(2); } }
+  .para_menu a.trigger.pilcrow:hover, .para_menu a.trigger.pilcrow.active { filter: grayscale(2) brightness(2); }
+
+  .p-message_pane__foreword__description, .p-message_pane__limited_history_alert { color: #e6e6e6; }
+}
