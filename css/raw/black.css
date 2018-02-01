@@ -3969,4 +3969,4 @@ a.c-mrkdwn__member.c-mrkdwn__member--link:link, a.c-mrkdwn__member.c-mrkdwn__mem
 
 .c-mrkdwn__broadcast.c-mrkdwn__broadcast--link  { color: #363636; }
 
-button.c-button-unstyled { background: #363636; border: 1px solid #717274; }
+button.c-button-unstyled.c-reaction, button.c-button-unstyled.c-reaction_add { background: #363636; border: 1px solid #717274; }
