@@ -3974,3 +3974,7 @@ button.c-button-unstyled.c-reaction, button.c-button-unstyled.c-reaction_add { b
 #autocomplete_menu.search_menu.unified .query_header, #chat_input_tab_ui.search_menu.unified .query_header { background-color: #363636 }
 
 #autocomplete_menu.search_menu footer.unified { background-color: #363636 }
+
+.c-file_container--gradient::after { background: linear-gradient(180deg, rgba(255, 255, 255, 0), #2c2d30) }
+
+.c-file_container { background: #363636; border: 1px solid #363636; }
