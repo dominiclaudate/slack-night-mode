@@ -3978,3 +3978,5 @@ button.c-button-unstyled.c-reaction, button.c-button-unstyled.c-reaction_add { b
 .c-file_container--gradient::after { background: linear-gradient(180deg, rgba(255, 255, 255, 0), #2c2d30) }
 
 .c-file_container { background: #363636; border: 1px solid #363636; }
+
+.c-snippet__code .CodeMirror-code > div:before { background-color: #000000; }
