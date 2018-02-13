@@ -3980,3 +3980,11 @@ button.c-button-unstyled.c-reaction, button.c-button-unstyled.c-reaction_add { b
 .c-file_container { background: #363636; border: 1px solid #363636; }
 
 .c-snippet__code .CodeMirror-code > div:before { background-color: #000000; }
+
+.c-file__actions:before { background-image: linear-gradient(to right, rgba(255, 255, 255, 0), #363636 20px); }
+
+.c-file__title { color: #c7c7c7; }
+
+.c-file__slide.c-file__slide--meta { background: #363636; }
+
+.c-icon--file-google-document { border: 3px solid #363636; }
